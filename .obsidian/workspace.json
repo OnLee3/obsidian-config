@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "1e8ea97d69c44275",
+    "type": "split",
+    "children": [
+      {
+        "id": "21150ac3afe1a7a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caa322c50d3d81d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Permanent/아테네의 변명.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "900fa9bb21818f51",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4e9d9d505f8c108",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c2dcf7318eedfe1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "aa3a6632ef8aa045",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04d6c44243fc11cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c7e740239aa30ec3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b34a4fafda2f9ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03c0419e15b046a3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "0. Permanent/아테네의 변명.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7665039549580767,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "278cefa192d767cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "9bbeb6e90772b595",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. Permanent/아테네의 변명.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bf409da031367ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. Permanent/아테네의 변명.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4838c404728b19c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. Permanent/아테네의 변명.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 498.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "random-note:랜덤 노트 열기": false
+    }
+  },
+  "active": "caa322c50d3d81d2",
+  "lastOpenFiles": [
+    "0. Permanent/독서.md",
+    "0. Permanent/아테네의 변명.md",
+    "98.Daily/2024-10-02.md",
+    "0. Permanent/무제 파일 3.md",
+    "0. Permanent/무제 파일 2.md",
+    "0. Permanent/무제 파일 1.md",
+    "99.첨부파일/family-fluid.mp4",
+    "무제 파일 1.md",
+    "exercise.md",
+    "0. Permanent/UI CRAFT 챕터 1.md",
+    "0. Permanent/NeoVim 세팅.md",
+    "98.Daily/2024-10-01.md",
+    "0. Permanent/관심의 태도.md",
+    "98.Daily/2024-09-30.md",
+    "0. Permanent/Vim Fundamentals.md",
+    "98.Daily/2024-09-29.md",
+    "98.Daily/2024-09-28.md",
+    "0. Permanent/File Format.md",
+    "0. Permanent/Vim.md",
+    "0. Permanent/Family Drawer.md",
+    "0. Permanent/UI Craft 스터디.md",
+    "0. Permanent/Animation Fluidity.md",
+    "0. Permanent/AshRock.md",
+    "0. Permanent/이상적인 삶.md",
+    "0. Permanent/자기목적성.md",
+    "0. Permanent/평균적이지 않은 사람.md",
+    "0. Permanent/닻.md",
+    "99.첨부파일/화면 기록 2024-09-14 오후 7.24.11.mov",
+    "99.첨부파일/스크린샷 2024-09-26 오후 8.05.41.png",
+    "99.첨부파일/스크린샷 2024-09-23 오전 11.30.25.png",
+    "99.첨부파일/화면 기록 2024-09-15 오후 5.29.42.mov",
+    "99.첨부파일/스크린샷 2024-08-29 오후 7.27.03.png",
+    "99.첨부파일/SCR-20240829-ptla.png",
+    "99.첨부파일/스크린샷 2024-08-28 오전 8.00.27.png",
+    "스크린샷 2024-08-28 오전 8.00.27.png",
+    "99.첨부파일/스크린샷 2024-08-26 오후 5.33.01.png",
+    "business",
+    "99.첨부파일/스크린샷 2024-08-11 오후 2.48.04.png",
+    "99.첨부파일/스크린샷 2024-08-11 오후 2.52.31.png",
+    "99.첨부파일/스크린샷 2024-08-11 오후 12.17.25.png",
+    "무제 폴더",
+    "무제 파일.canvas",
+    "GET api",
+    "0. Permanent/TimeLineAudioListVC 계층도.canvas",
+    "0. Permanent/toggleTimeLine 타임라인.canvas",
+    "0. Permanent/동영상 에디터 계층도 As-Is 상세.canvas",
+    "0. Permanent/동영상 에디터 계층도 useCurrentTimeIndicator 개선시.canvas",
+    "0. Permanent/동영상 에디터 계층도 pagePopup 개선시.canvas",
+    "0. Permanent/동영상 에디터 계층도 As-Is.canvas",
+    "0. Permanent/동영상 에디터 계층도 To-Be.canvas",
+    "98.Daily/2022년 10월",
+    "98.Daily/2022년 11월",
+    "98.Daily/2022년 12월",
+    "98.Daily/2022년 8월"
+  ]
+}
