@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "d2d4e54adf196e7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "144212b2c63f25d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6de8627243a3cd19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d951b45928663478",
+    "type": "split",
+    "children": [
+      {
+        "id": "5607b2290c8d6922",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2417fec451493b03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "c6f6c1256d000ee9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "5a617dd66ca7f676",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6165300daaa34485",
+    "type": "split",
+    "children": [
+      {
+        "id": "27644115d710c6a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a588abd0f999e6ff",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "98.Daily/2024-10-19.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "2024-10-19 그래프"
+            }
+          },
+          {
+            "id": "9127c64db2bae5b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "98.Daily/2024-10-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2024-10-19의 백링크"
+            }
+          },
+          {
+            "id": "d883120a1bd681c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "98.Daily/2024-10-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2024-10-19의 나가는 링크"
+            }
+          },
+          {
+            "id": "51f911d0da14d797",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0a9ecd2c7a88db58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "98.Daily/2024-10-19.md"
+              },
+              "icon": "lucide-list",
+              "title": "2024-10-19 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "random-note:랜덤 노트 열기": false
+    }
+  },
+  "active": "6de8627243a3cd19",
+  "lastOpenFiles": [
+    "98.Daily/2023년 1월/2023-01-14 스키 여행 전날.md",
+    "0. Permanent/삶을 읽는 사고.md",
+    "98.Daily/2024-07-04.md",
+    "0. Permanent/운동체와 피운동체.md",
+    "0. Permanent/애드 아스트라.md",
+    "0. Permanent/고독과 몰락.md",
+    "0. Permanent/미국 취업.md",
+    "0. Permanent/유머.md",
+    "0. Permanent/복잡한 문제를 해결하는 방법.md",
+    "0. Permanent/즉시실행함수.md",
+    "98.Daily/2024-07-25 일기.md",
+    "0. Permanent/미리캔버스 2.0 모바일.md",
+    "0. Permanent/미니멀리즘.md",
+    "0. Permanent/모비딕 - 읽는 중 메모.md",
+    "0. Permanent/동기부여가 필요한 일.md",
+    "0. Permanent/Phase 5. Deployment, monitoring, and ongoing maintenance.md",
+    "0. Permanent/전세 반지층 리스크 리턴 분석.md",
+    "0. Permanent/신앙심을 가진 자.md",
+    "0. Permanent/기저율과 대표성.md",
+    "0. Permanent/최소한의 비용 개발.md",
+    "0. Permanent/메인페이지 히어로 호버 인터렉션 실험.md",
+    "0. Permanent/원자의 구성과 별의 구성의 유사성.md",
+    "0. Permanent/하와이에서의 첫 서핑.md",
+    "0. Permanent/행동유도.md",
+    "0. Permanent/워터폴.md",
+    "0. Permanent/우리는 지금 어디에 있는가.md",
+    "obsidian_config",
+    "99.첨부파일/SCR-20241020-swyk.png",
+    "99.첨부파일/SCR-20241020-swva.png",
+    "99.첨부파일/SCR-20241020-swwz.png",
+    "99.첨부파일/SCR-20241020-swwi.png",
+    "99.첨부파일/SCR-20241020-swqt.jpeg",
+    "99.첨부파일/SCR-20241020-swio.jpeg",
+    "99.첨부파일/SCR-20241020-swlx.jpeg",
+    "99.첨부파일/무제 3.pdf",
+    "99.첨부파일/스크린샷 2024-10-11 오전 11.46.59.png",
+    "99.첨부파일/화면 기록 2024-10-11 오전 7.42.48.mov",
+    "99.첨부파일/스크린샷 2024-10-09 오후 4.55.01.png",
+    "99.첨부파일/스크린샷 2024-10-06 오후 7.08.00.png",
+    "98.Daily/2022년 12월",
+    "98.Daily/2022년 11월",
+    "98.Daily/2022년 10월",
+    "98.Daily/2023년 4월",
+    "98.Daily/2023년 1월",
+    "98.Daily/2022년 8월",
+    "98.Daily/2022년 9월",
+    "0. Permanent/TimeLineAudioListVC 계층도.canvas",
+    "0. Permanent/toggleTimeLine 타임라인.canvas",
+    "0. Permanent/동영상 에디터 계층도 As-Is 상세.canvas",
+    "0. Permanent/동영상 에디터 계층도 useCurrentTimeIndicator 개선시.canvas",
+    "0. Permanent/동영상 에디터 계층도 pagePopup 개선시.canvas",
+    "0. Permanent/동영상 에디터 계층도 As-Is.canvas",
+    "0. Permanent/동영상 에디터 계층도 To-Be.canvas"
+  ]
+}
